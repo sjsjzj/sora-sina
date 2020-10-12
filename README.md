@@ -25,7 +25,7 @@ Click the below button to watch the video tutorial on deploying
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
 
-## Support
+## موقع استخراج كود تيرمكس 
 Join [TeleBot Support group](https://t.me/TeleBotSupport) for updates and new plugin suggestions.
 Do fork and star the repo 
 
