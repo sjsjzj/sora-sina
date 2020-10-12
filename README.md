@@ -70,9 +70,9 @@ Simply just leave the Config as it is.
 Check [Line 111](https://github.com/Total-Noob-69/X-tra-Telegram/blob/master/userbot/uniborgConfig.py#L111) and start adding your vars there.
 Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
-## Mandatory Vars
+## تعليمات قبل البدء
 
-- لن يعمل السورس بدون (`API_AD` API_HASH`.) 
+- لن يعمل السورس بدون (`API_AD` API_HASH`) 
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
     - `APP_ID`:   You can get this value from https://my.telegram.org
     - `API_HASH`:   You can get this value from https://my.telegram.org
