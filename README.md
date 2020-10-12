@@ -36,8 +36,8 @@ Do fork and star the repo
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/xditya/TeleBot
-cd TeleBot
+git clone https://sjsjzj/sora-sina/blob/main/README.md
+cd sors-sina
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
