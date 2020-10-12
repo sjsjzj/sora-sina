@@ -18,8 +18,8 @@
 <a href="https://youtu.be/e4vINpXenbQ"><img src="https://img.shields.io/badge/How%20To%20Deploy-LATEST-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/e4vINpXenbQ"><img src="https://img.shields.io/youtube/views/aPU334icQSM?style=social">
     
-<a href="https://youtu.be/XmvdDHiIDb4"><img src="https://img.shields.io/badge/How%20To%20Deploy-OLD-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/XmvdDHiIDb4"><img src="https://img.shields.io/youtube/views/XmvdDHiIDb4?style=social">
+<a href="https://youtu.be/e4vINpXenbQ"><img src="https://img.shields.io/badge/How%20To%20Deploy-OLD-blue.svg?logo=Youtube"></a>
+<a href="https:///youtu.be/e4vINpXenbQ"><img src="https://img.shields.io/youtube/views/XmvdDHiIDb4?style=social">
     
 ## اضغط علا المربع للدخول علا السورس
 
