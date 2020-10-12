@@ -1,7 +1,7 @@
 # sora-sina - Telegram 
 
 <p align="left">
-    <a href="https://t.me/telerebo"> <img src="https://img.shields.io/badge/telegram-Support_acont-blue?style=social&logo=telegram" alt="Support" /></a>
+    <a href="https://t.me/telerebo"> <img src="https://img.shields.io/badge/telegram-قناة السورس-blue?style=social&logo=telegram" alt="Support" /></a>
    
 
 
