@@ -73,7 +73,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 - The userbot will not work without setting the mandatory vars.
 
 # `أخلاء المسؤليه عن الأستخدام الخطأ` 
-```
+
 /**
     Improper use may lead to ban.
     I am not responsible if you misuse this bot.
