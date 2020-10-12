@@ -6,7 +6,7 @@
     
 </p>
     
-## Video Tutorial on deploying
+## فيديو تعلمي للتنصيب 
 
 Click the below button to watch the video tutorial on deploying
 
@@ -16,7 +16,7 @@ Click the below button to watch the video tutorial on deploying
 <a href="https://youtu.be/XmvdDHiIDb4"><img src="https://img.shields.io/badge/How%20To%20Deploy-OLD-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/XmvdDHiIDb4"><img src="https://img.shields.io/youtube/views/XmvdDHiIDb4?style=social">
     
-## The Easier Way to install
+## اضغط علا المربع للدخول علا السورس
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
 
