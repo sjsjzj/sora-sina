@@ -30,7 +30,7 @@ Do fork and star the repo
 <a href="https://telebot-sessionstring-generator.xditya.repl.run/" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 ### `معلومات السورس`
-
+       ```
 Simply clone the repository and run the main file:
 ```sh
 git clone https://sjsjzj/sora-sina/blob/main/README.md
@@ -51,10 +51,7 @@ __The Userbot should work by setting only the first two variables__
 ```python3
 from heroku_config import Var
 
-class Development(Var):
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
-```
+
 
 ### UniBorg Configuration
 
