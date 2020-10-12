@@ -1,4 +1,4 @@
-# sora-sina - Telegram 
+# sors-sina - Telegram 
 
 <p align="left">
     <a href="https://t.me/telerebo"> <img src="https://img.shields.io/badge/telegram-قناة السورس-blue?style=social&logo=telegram" alt="Support" /></a>
@@ -72,9 +72,8 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
 
-# أخلاء المسؤليه عن الأستخدام الخطأ
+## أخلاء المسؤليه عن الأستخدام الخطأ
 
-/**
     Improper use may lead to ban.
     I am not responsible if you misuse this bot.
 	This bot is just for managing groups more effectively and having some fun
@@ -83,7 +82,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 	If you spammed and got reported again and again, 
 	and, at last got your account banned, and you
 	point your fingers at me, I'll be rolling on the floor laughing at you.
-/**
+
 
 
 
