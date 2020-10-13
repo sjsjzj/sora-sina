@@ -32,27 +32,7 @@ Do fork and star the repo
 #### 👇 استخراج كود تيرمكس
 <a href="https://telebot-sessionstring-generator.xditya.repl.run/" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
-####  - معلومات السورس
-       
-Simply clone the repository and run the main file:
-```sh
-git clone https://sjsjzj/sora-sina/blob/main/README.md
-cd sors-sina
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-# <Create local_config.py with variables as given below>
-python3 -m userbot
-```
 
-**An example `local_config.py` file could be:
-
-**Not All of the variables are mandatory**
-
-__The Userbot should work by setting only the first two variables__
-
-python3
-from heroku_config import Var
 
 
 
