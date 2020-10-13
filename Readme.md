@@ -18,8 +18,8 @@
 <a href="https://youtu.be/e4vINpXenbQ"><img src="https://img.shields.io/badge/How%20To%20Deploy-LATEST-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/e4vINpXenbQ"><img src="https://img.shields.io/youtube/views/aPU334icQSM?style=social">
   
-### اضغط علا المربع للدخول علا السورس
-      ''''
+### ’اضغط علا المربع للدخول علا السورس’
+      
 [![Deploy TO Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
 
 
