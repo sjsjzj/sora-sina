@@ -29,7 +29,7 @@
 Join [sors-sina Support group](https://t.me/telerebox) for updates and new plugin suggestions.
 Do fork and star the repo 
 
-### Session String 
+### استخراج الكود👇
 <a href="https://telebot-sessionstring-generator.xditya.repl.run/" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 ### `معلومات السورس`
