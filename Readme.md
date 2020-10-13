@@ -20,7 +20,7 @@
   
 ## اضغط علا المربع للدخول علا السورس
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
+[![Deploy TO sina](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
 
 ## موقع استخراج كود تيرمكس 
 Join [sors-sina Support group](https://t.me/telerebox) for updates and new plugin suggestions.
