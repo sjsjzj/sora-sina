@@ -25,7 +25,7 @@
 
 
 
-## موقع استخراج كود تيرمكس 
+##  👇الكروب للمساعده
 Join [sors-sina Support group](https://t.me/telerebox) for updates and new plugin suggestions.
 Do fork and star the repo 
 
