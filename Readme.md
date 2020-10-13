@@ -32,7 +32,7 @@ Do fork and star the repo
 #### 👇 استخراج كود تيرمكس
 <a href="https://telebot-sessionstring-generator.xditya.repl.run/" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
-### `معلومات السورس`
+#### معلومات السورس
        
 Simply clone the repository and run the main file:
 ```sh
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python3 -m userbot
 ```
 
-An example `local_config.py` file could be:
+**An example `local_config.py` file could be:
 
 **Not All of the variables are mandatory**
 
@@ -67,7 +67,7 @@ Simply just leave the Config as it is.
 Check [Line 111](https://github.com/Total-Noob-69/X-tra-Telegram/blob/master/userbot/uniborgConfig.py#L111) and start adding your vars there.
 Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
-## تعليمات قبل البدء
+### تعليمات قبل البدء
 
 - لن يعمل السورس بدون (`API_AD` API_HASH`) 
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
@@ -77,7 +77,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 
 
-## أخلاء المسؤليه عن الأستخدام الخطأ
+### أخلاء المسؤليه عن الأستخدام الخطأ
 
 ماهو تليثون؟  هوا بوت يساعدك ب العديد من الأشياء مثل أدارت مجموعتك بدون بوت أو أستخدام أوامر المرح وانا لست مسؤل عن سوء الاستخدام تحياتي 
 
