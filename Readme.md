@@ -20,7 +20,7 @@
   
 ## اضغط علا المربع للدخول علا السورس
 
-[![Deploy TO Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sjsjxj/sora-Sina)
+[![Deploy TO Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/telersbo/reborn--tele/tree/main)
 
 
 
