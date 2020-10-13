@@ -70,12 +70,15 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 ### تعليمات قبل البدء
 
 - لن يعمل السورس بدون (`API_AD` API_HASH`) 
-- This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
-    - `API يتم الحصول عليها من 👇
- https://my.telegram.org
+- بسبب `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
+   
+ - `API يتم الحصول عليها من 👇
+
+      https://my.telegram.org
    
  - `API_HASH`:    يتم الحصول عليها من👇
-https://my.telegram.org
+        
+           https://my.telegram.org
 
 - The userbot will not work without setting the mandatory vars.
 
