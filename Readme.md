@@ -10,10 +10,6 @@
    
     
 </p>
-    
-### فيديو تعلمي للتنصيب 
-
-اضغط علا الزر ادناه للدخول
 
 <a href="https://youtu.be/e4vINpXenbQ"><img src="https://img.shields.io/badge/How%20To%20Deploy-LATEST-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/e4vINpXenbQ"><img src="https://img.shields.io/youtube/views/aPU334icQSM?style=social">
