@@ -53,7 +53,7 @@ from heroku_config import Var
 
 
 
-### UniBorg Configuration
+### يونيبورغ التكوين
 
 The UniBorg Config is situated in `userbot/uniborgConfig.py`.
 
