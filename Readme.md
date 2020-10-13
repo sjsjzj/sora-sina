@@ -78,7 +78,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
    
  - `API_HASH`:    يتم الحصول عليها من👇
         
-           https://my.telegram.org
+         https://my.telegram.org
 
 - The userbot will not work without setting the mandatory vars.
 
