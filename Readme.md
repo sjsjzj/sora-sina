@@ -20,7 +20,8 @@
   
 ## اضغط علا المربع للدخول علا السورس
 
-[![Deploy TO Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/telersbo/reborn--tele)
+[![Deploy TO Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/github.com/xditya/TeleBot)
+
 
 
 
