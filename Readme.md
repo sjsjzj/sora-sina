@@ -1,4 +1,4 @@
-# sors-sina - Telegram 
+# sors-sina-Green Telegram 
 
 <p align="left">
     <a href="https://t.me/telerebo"> <img src="https://img.shields.io/badge/telegram-Source_Channel-Green?style=social&logo=telegram" alt="Support" /></a>
