@@ -16,7 +16,7 @@
   </a>
 </p>
 
-### Join [here](https://t.me/tele_thon) for updates and tuts and [here](https://t.me/klanraloosh) for discussion and bugs
+### Join [here](https://t.me/sorasina)
 
 
 - Only two of the environment variables are mandatory.
