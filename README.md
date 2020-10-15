@@ -8,7 +8,7 @@
 
 [![Deploy To Heroku iraqthon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 <p align="center">
-  <a href="https:github.com/klanrali/iraqthon/fork">
+  <a href="https://github.com/klanrali/iraqthon/fork">
     <img src="https://img.shields.io/github/forks/klanrali/plus.telethon?label=Fork&style=social">
     
   </a>
