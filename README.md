@@ -2,9 +2,8 @@
 
 ## sora-sina
 
-    <a href="https://t.me/telerebo"> <img src="https://img.shields.io/badge/telegram-shat-blue?style=social&logo=telegram" alt="Support" /></a>
- 
-   <a href="https://t.me/sorasina"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
+<a href="https://t.me/telerebo"> <img src="https://img.shields.io/badge/telegram-shat-blue?style=social&logo=telegram" alt="Support" /></a>
+<a href="https://t.me/sorasina"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
 
 [![Deploy To Heroku iraqthon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 <p align="center">
