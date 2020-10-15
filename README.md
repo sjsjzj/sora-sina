@@ -1,4 +1,4 @@
-a>href="https://t.me/sorasina"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
+[###href="https://t.me/sorasina"><img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
 
 
 # Welcome to BOT Iraq Thun Thank you for choosing us. Our channel is here: https://t.me/tele_thon
