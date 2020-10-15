@@ -8,7 +8,7 @@ import asyncio
 @borg.on(admin_cmd("zah ?(.*)"))
 async def _(event):
      if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
-        await event.edit("احبك")
+        (await) event.edit("احبك")
         await asyncio.sleep(4.1)
         await event.edit("دوستت دارم")
         await asyncio.sleep(3.5)
