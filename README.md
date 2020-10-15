@@ -1,4 +1,5 @@
-<a href="https://github.com/sjsjzj/sora-sina/stargazers"><img src="https://img.shields.io/github.com/sjsjzj/sora-sina?style=social"></a>
+    <a href="https://github.com/xditya/Tel    <a href="https://t.me/sorasina"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
+
 
 # Welcome to BOT Iraq Thun Thank you for choosing us. Our channel is here: https://t.me/tele_thon
 
