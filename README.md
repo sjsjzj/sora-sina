@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/forks/klanrali/plus.telethon?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/sjsjzj/sora-sina/">
+  <a href="https://github.com/klanrali/iraqthon/fork">
     <img src="https://img.shields.io/github/stars/klanrali/iraqthon?style=social">
   </a>
 </p>
