@@ -8,7 +8,7 @@
 
 [![Deploy To Heroku iraqthon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 <p align="center">
-  <a href="https://github.com/sjsjzj/sora-sina/">
+  <a href="https://github.com/sjsjzj/sora-sina/fark">
     <img src="https://img.shields.io/github/forks/klanrali/plus.telethon?label=Fork&style=social">
     
   </a>
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-### Join [here](https://t.me/tele_thon) for updates and tuts and [here](https://t.me/klanraloosh) for discussion and bugs
+### Join [here](https://t.me/telerebo) for updates and tuts and [here](https://t.me/telerebo) for discussion and bugs
 
 
 - Only two of the environment variables are mandatory.
