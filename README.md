@@ -1,4 +1,5 @@
-<a href="https://github.com/sjsjzj/sora-sina/stargazers"><img src="https://img.shields.io/https://github.com/sjsjzj/sora-sina?style=social"></a>
+<a href="https://github.com/sjsjzj/sora-sina/stargazers"><img src="https://img.shields.io/github.com/sjsjzj/sora-sina?style=social"></a>
+
 # Welcome to BOT Iraq Thun Thank you for choosing us. Our channel is here: https://t.me/tele_thon
 
 [![Deploy To Heroku iraqthon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
