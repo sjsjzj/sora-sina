@@ -1,7 +1,8 @@
 [![iraqthon](https://telegra.ph/file/e347186560ef4369b8ca0.jpg)](https://heroku.com/deploy)
 
-# Welcome to BOT Iraq Thun Thank you for choosing us. Our channel is here: https://t.me/tele_thon
-
+## sora-sina
+    <a href="https://t.me/telerebo"> <img src="https://img.shields.io/badge/telegram-shat-blue?style=social&logo=telegram" alt="Support" /></a>
+    <a href="https://t.me/sorasina"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
 [![Deploy To Heroku iraqthon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 <p align="center">
   <a href="https://github.com/klanrali/iraqthon/fork">
