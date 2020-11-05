@@ -18,7 +18,7 @@ Click the below button to watch the video tutorial on deploying
     
 ## The Easier Way to install
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jzjzjiia/sosr-sina)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sjsjzj/sosr-sina)
 
 ## Support
 Join [TeleBot Support group](https://t.me/TeleBotSupport) for updates and new plugin suggestions.
