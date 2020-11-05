@@ -18,7 +18,7 @@ Click the below button to watch the video tutorial on deploying
     
 ## The Easier Way to install
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sjsjzj/sosr-sina)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sjsjzj/sora-sina)
 
 ## Support
 Join [TeleBot Support group](https://t.me/TeleBotSupport) for updates and new plugin suggestions.
@@ -65,25 +65,7 @@ Simply just leave the Config as it is.
 Check [Line 111](https://github.com/Total-Noob-69/X-tra-Telegram/blob/master/userbot/uniborgConfig.py#L111) and start adding your vars there.
 Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
-## Mandatory Vars
 
-- Only two of the environment variables are mandatory.
-- This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
-    - `APP_ID`:   You can get this value from https://my.telegram.org
-    - `API_HASH`:   You can get this value from https://my.telegram.org
-- The userbot will not work without setting the mandatory vars.
-
-# Disclaimer
-```
-/**
-    Improper use may lead to ban.
-    I am not responsible if you misuse this bot.
-	This bot is just for managing groups more effectively and having some fun
-	with your telegram account.
-	No one is responsible for your actions.
-	If you spammed and got reported again and again, 
-	and, at last got your account banned, and you
-	point your fingers at me, I'll be rolling on the floor laughing at you.
 /**
 ```
 
