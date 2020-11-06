@@ -1,5 +1,6 @@
 # sors sina telegram
-https://telegra.ph/file/e347186560ef4369b8ca0.jpg
+
+# https://telegra.ph/file/e347186560ef4369b8ca0.jpg
 
 <p align="left">
     <a href="https://t.me/TeleBotHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
